@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.streamlit/secrets.toml
+.env
+*.pyc
+.DS_Store
+assets/jewellery_images/*
+!assets/jewellery_images/README.md

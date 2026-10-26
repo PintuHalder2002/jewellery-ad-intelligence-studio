@@ -1,0 +1,1 @@
+Place only images you own or have permission to process in this folder. These are used only by the optional pretrained image-similarity experiment. Do not include customer images or private client assets in a public repository.

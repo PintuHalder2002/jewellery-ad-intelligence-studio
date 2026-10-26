@@ -1,0 +1,7 @@
+# Optional only. Do not install this for the first version unless you have time.
+# For the correct CPU/Windows command, use the official PyTorch selector:
+# https://pytorch.org/get-started/locally/
+torch
+torchvision
+Pillow
+scikit-learn
