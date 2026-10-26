@@ -43,7 +43,7 @@ with st.sidebar:
     st.header("Project status")
     st.write("**Live ad account:** Not connected")
     st.write("**Customer CRM:** Not connected")
-    st.write("**Data mode:** Local demonstration")
+    st.write("**Data mode:** Illustrative demo data (hosted app)")
 
 if uploaded_file is not None:
     try:
